@@ -7,7 +7,7 @@
   </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Rahulthekidd 🌐</h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -35,7 +35,7 @@
   </section>
 
   <section id="projects">
-    <h2>Projects</h2>
+    <h2>Projects (soon to come)</h2>
     <ul>
       <li><a href="#">Project 1</a></li>
       <li><a href="#">Project 2</a></li>
@@ -46,7 +46,7 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Add your contact details here.</p>
+    <p>💤Email(only for business use) : Rahulthekidd@proton.me;</p>
   </section>
 
   <footer>
