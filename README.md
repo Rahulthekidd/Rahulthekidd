@@ -3,14 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your GitHub Profile</title>
-  <style>
-    /* Add your custom CSS styles here */
-  </style>
 </head>
 <body>
   <header>
-    <h1>Rahul aka Cench  </h1>
+    <h1>Your Name</h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -21,23 +17,20 @@
   </header>
 
   <section id="about">
-    <h2>About</h2>
-   <section id="about">
-  <h2>About Me</h2>
-  <p>
-    Hello! My name is Rahul and I am a passionate web developer with a focus on front-end designing. I have a background in SSC (Secondary School Certificate) and a diploma in CEHV10 (Certified Ethical Hacker Version 10). I am enthusiastic about creating visually appealing and user-friendly websites.
-  </p>
-  <p>
-    I believe that great web design goes beyond just aesthetics. It should also provide an intuitive and seamless user experience. I enjoy working with modern technologies such as HTML, CSS, and JavaScript to bring ideas to life and create engaging web interfaces.
-  </p>
-  <p>
-    Currently, I am located in Hello Home, where I continue to expand my knowledge and skills in web development. I love to collaborate with fellow developers and contribute to exciting projects that push the boundaries of what's possible on the web.
-  </p>
-  <p>
-    Feel free to explore my portfolio and projects to get a better sense of my work. If you have any questions or would like to discuss a potential collaboration, please don't hesitate to contact me.
-  </p>
-</section>
-
+    <h2>About Me</h2>
+    <p>
+      Hello! My name is Rahul and I am a passionate web developer with a focus on front-end designing. I have a background in SSC (Secondary School Certificate) and a diploma in CEHV10 (Certified Ethical Hacker Version 10). I am enthusiastic about creating visually appealing and user-friendly websites.
+    </p>
+    <p>
+      I believe that great web design goes beyond just aesthetics. It should also provide an intuitive and seamless user experience. I enjoy working with modern technologies such as HTML, CSS, and JavaScript to bring ideas to life and create engaging web interfaces.
+    </p>
+    <div id="coding-canvas"></div>
+    <p>
+      Currently, I am located in Hello Home, where I continue to expand my knowledge and skills in web development. I love to collaborate with fellow developers and contribute to exciting projects that push the boundaries of what's possible on the web.
+    </p>
+    <p>
+      Feel free to explore my portfolio and projects to get a better sense of my work. If you have any questions or would like to discuss a potential collaboration, please don't hesitate to contact me.
+    </p>
   </section>
 
   <section id="projects">
@@ -60,4 +53,3 @@
   </footer>
 </body>
 </html>
-
