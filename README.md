@@ -3,11 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-  </head>
+</head>
 <body>
   <header>
-    <h1>Rahulthekidd 🌐</h1>
+    <h1>Rahulthekidd 🖥️</h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -20,37 +19,43 @@
   <section id="about">
     <h2>About Me</h2>
     <p>
-      Hello! My name is Rahul and I am a passionate web developer with a focus on front-end designing. I have a background in SSC (Secondary School Certificate) and a diploma in CEHV10 (Certified Ethical Hacker Version 10). I am enthusiastic about creating visually appealing and user-friendly websites.
+      Hello! I'm Rahul, a web developer with expertise in front-end design and development. My educational background includes SSC and a Diploma in CEHV10. I have a passion for creating visually appealing and user-friendly websites.
     </p>
     <p>
-      I believe that great web design goes beyond just aesthetics. It should also provide an intuitive and seamless user experience. I enjoy working with modern technologies such as HTML, CSS, and JavaScript to bring ideas to life and create engaging web interfaces.
+      I specialize in the following technologies:
     </p>
-    <div id="coding-canvas"></div>
+    <ul>
+      <li><code>HTML5</code></li>
+      <li><code>CSS3</code></li>
+      <li><code>OOP (OBJECT ORIENTED PROGRAMMING)</code></li>
+      <li><code>C</code>, <code>C++</code></li>
+      <li><code>Java</code>, <code>Python</code> (Java API's too)</li>
+      <li>Sass</li>
+      <li>Bootstrap</li>
+    </ul>
     <p>
-      Currently, I am located in Hello Home, where I continue to expand my knowledge and skills in web development. I love to collaborate with fellow developers and contribute to exciting projects that push the boundaries of what's possible on the web.
+      Additionally, I have experience working with the following languages:
     </p>
+    <ul>
+      <code>Rust</code>
+      <code>Golang</code>
+      <code>Assembly language</code>
+    </ul>
     <p>
-      Feel free to explore my portfolio and projects to get a better sense of my work. If you have any questions or would like to discuss a potential collaboration, please don't hesitate to contact me.
+      Currently, I am constantly learning and staying up to date with the latest web development trends to enhance my skills. I strive to create clean, efficient, and maintainable code in all my projects, and I am always eager to take on new challenges.
     </p>
   </section>
 
   <section id="projects">
-    <h2>Projects (soon to come)</h2>
-    <ul>
-      <li><a href="#">Project 1</a></li>
-      <li><a href="#">Project 2</a></li>
-      <li><a href="#">Project 3</a></li>
-      <!-- Add more projects as needed -->
-    </ul>
+   <h1>Projects will arrive soon</h1>
   </section>
 
   <section id="contact">
-    <h2>Contact</h2>
-    <p>💤Email(only for business use) : Rahulthekidd@proton.me;</p>
+    <h3>Public static void email() { String Email = "Rahulthekidd@proton.me";}</h3>
   </section>
 
   <footer>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
+    <p>&copy; 2023 @Rahulthekidd. All rights reserved.</p>
   </footer>
 </body>
 </html>
