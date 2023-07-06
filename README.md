@@ -6,18 +6,10 @@
 </head>
 <body>
   <header>
+    <img src="https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"></img>
     <h1>Rahulthekidd 🖥️</h1>
-    <nav>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
   </header>
-
-  <section id="about">
-    <h2>About Me</h2>
+    <h2 id="about">About Me</h2>
     <p>
       Hello! I'm Rahul, a web developer with expertise in front-end design and development. My educational background includes SSC and a Diploma in CEHV10. I have a passion for creating visually appealing and user-friendly websites.
     </p>
@@ -25,22 +17,14 @@
       I specialize in the following technologies:
     </p>
     <ul>
-      <li><code>HTML5</code></li>
-      <li><code>CSS3</code></li>
-      <li><code>OOP (OBJECT ORIENTED PROGRAMMING)</code></li>
-      <li><code>C</code>, <code>C++</code></li>
-      <li><code>Java</code>, <code>Python</code> (Java API's too)</li>
-      <li>Sass</li>
-      <li>Bootstrap</li>
-    </ul>
-    <p>
-      Additionally, I have experience working with the following languages:
-    </p>
-    <ul>
-      <code>Rust</code>
-      <code>Golang</code>
-      <code>Assembly language</code>
-    </ul>
+      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit"></li></li>
+       <li> <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square"></li>
+        <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></li>
+        <li><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></li>
+      <br>
     <p>
       Currently, I am constantly learning and staying up to date with the latest web development trends to enhance my skills. I strive to create clean, efficient, and maintainable code in all my projects, and I am always eager to take on new challenges.
     </p>
