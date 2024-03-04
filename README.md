@@ -17,14 +17,21 @@
       I specialize in the following technologies:
     </p>
     <ul>
-      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit"></li></li>
+       <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
+       <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
+       <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></li>
+       <li><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit"></li></li>
        <li> <img src="https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square"></li>
         <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></li>
         <li><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></li>
       <br>
+      <h1>FrameWorks</h1>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></li>
+      </ul>
+      <br><br>
     <p>
       Currently, I am constantly learning and staying up to date with the latest web development trends to enhance my skills. I strive to create clean, efficient, and maintainable code in all my projects, and I am always eager to take on new challenges.
     </p>
